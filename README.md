@@ -13,3 +13,5 @@ Either Clone this repo,
 or 
 
 `npm install meandavejustice/clinton-emails`
+
+![](https://s3.amazonaws.com/uploads.hipchat.com/25213/1617275/A7gBQPZ2lm3uhzV/upload.png)
