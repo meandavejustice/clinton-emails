@@ -1,0 +1,11 @@
+{
+  "name": "clinton-emails",
+  "version": "1.0.0",
+  "description": "This repository will be used to store/track the release of Hillary Clinton's personal emails. Tooling around accessing these documents, including search will be added soon.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "meandave",
+  "license": "MIT"
+}
